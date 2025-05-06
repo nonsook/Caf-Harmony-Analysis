@@ -114,6 +114,8 @@ This is tied to the Customer Ratings. The observations and suggestions made earl
 4. Employee Welfare programs should be effected immediately to tackle possible knowledge gaps in customer service, staff motivation, benefits and incentives. This will ensure increased staff productivity which is directly proportional to revenue increase.
 
 
+
+
 ![Thank (2)](https://github.com/user-attachments/assets/c51b1166-dc8b-4958-8e54-a652a35bc43b)
 
 
