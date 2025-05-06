@@ -25,14 +25,14 @@ I applied data wrangling and cleaning techniques on the datasets, which involved
 
 
 ## Key Findings
-Menu Performance:
+### Menu Performance:
 
 ![Product Revenue 1](https://github.com/user-attachments/assets/36e0d7d9-34d5-472e-bf47-f8e5adccc29e)
 
 From the Product Revenue chart for all locations above, the top-selling menu item that generated the most revenue is the Muffin at $2,401. It also doubles as the most preferred item.
 Using the Sales Location slicer on the Dashboard, I was able to deduce that Muffin performed best at Airport ($626) and Uptown ($729), while Iced Tea generated the most revenue at the Suburb ($659) and Downtown ($645). Cappuccino followed closely as the second best in all locations, except for the Suburbs, where it ranked third.
 
-Customer Spending:
+### Customer Spending:
 
 ![Customer Gender Dist](https://github.com/user-attachments/assets/64f70938-a164-4973-a8ad-717218856fee)  ![Customer Age Group](https://github.com/user-attachments/assets/df2a793e-fee7-484f-8c33-4fd5101aaad4)
 
@@ -46,7 +46,7 @@ Elder = 60 and above.
 
 The Youth category had the highest revenue contribution at 47%, followed closely by the Middle Age at 41%. The Elder group contributed the least at only 13% across all locations.
 
-Stock Management:
+### Stock Management:
 
 ![Stock performance](https://github.com/user-attachments/assets/c41e385a-d2db-45d8-91d2-0291fe550ff1)
 
@@ -57,7 +57,7 @@ The café can improve its Stock management through the following ways:
 Using sales data to forecast stock item usage and automate replenishment before key ingredients run out.
 Ensuring they have buffer stock for making top-selling products like Muffins, Iced Tea and Cappuccino.
 
-Employee Performance:
+### Employee Performance:
 
 ![Top !0 Emp](https://github.com/user-attachments/assets/d7c7d3ca-0122-42dd-90cc-720365c529d9)  ![Bottom 10](https://github.com/user-attachments/assets/999351be-dfdd-4875-af77-27fea6cde61e)
 
@@ -79,7 +79,7 @@ All employees who performed below average, especially the bottom 10, suggest tha
 #### Suggestion: 
 Their work environment, shift, or work hours, and customer feedback linked to them need to be investigated. A survey can also be sent out to them to understand the root cause of their poor performance.
 
-Customer Feedback:
+### Customer Feedback:
 
 ![Customer Rating](https://github.com/user-attachments/assets/56d3fae8-33d4-49ae-9a11-41c87d58b078)  ![Sentiments](https://github.com/user-attachments/assets/923c036d-7846-4f04-8fb0-f2775c79d550)
 
