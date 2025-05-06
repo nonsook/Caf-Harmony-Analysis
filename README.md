@@ -27,7 +27,7 @@ I applied data wrangling and cleaning techniques on the datasets, which involved
 ## Key Findings
 ![Product Revenue 1](https://github.com/user-attachments/assets/36e0d7d9-34d5-472e-bf47-f8e5adccc29e)
 
-From the Product Revenue chart for all locations, the top-selling menu item that generated the most revenue is the Muffin at $2,401. It also doubles as the most preferred item.
+From the Product Revenue chart for all locations above, the top-selling menu item that generated the most revenue is the Muffin at $2,401. It also doubles as the most preferred item.
 ![image](https://github.com/user-attachments/assets/87334f67-c150-486b-9799-5562547e8779)
 
 
