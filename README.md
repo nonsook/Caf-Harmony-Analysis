@@ -1,5 +1,6 @@
 # Cafe-Harmony-Analysis
 Analysis on Café Harmony, to detemine the general buisness performance in terms of Sales, Products and Customer Experience.
+
 ![Cafe Harmony](https://github.com/user-attachments/assets/74447316-6ae8-442b-993f-aaffd527a8cb)
 
 
