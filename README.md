@@ -66,6 +66,45 @@ The left chart above shows the Top 10 Employees who met or exceeded their sales 
 A toggle on the table filter for the bottom 10 performance (right chart) also reveals that Olivia King was the least performing employee at -$9,766 with an average sales target of $3,794.
 
 
+![Employee Perfomance Average](https://github.com/user-attachments/assets/62284729-fb1e-4e6a-99fd-9f674c2e0b52)
+
+The Average Sales Target for employees was $2,984 (also captured on the KPI section).
+Generally, 50% of the employees performed above average, while the other 50% performed below average. 
+
+Furthermore, filtering with the Employee Location slicer reveals the employee locations performing above or below average. Uptown was the least performing location, with more than half (55%) of employees performing below average.
+
+Observation:
+All employees who performed below average, especially the bottom 10, suggest that there might be potential issues in their workplace, which might be tied to a lack of motivation, inadequate training, or being overworked.
+
+Suggestion: 
+Their work environment, shift, or work hours, and customer feedback linked to them need to be investigated. A survey can also be sent out to them to understand the root cause of their poor performance.
+
+Customer Feedback:
+
+![Customer Rating](https://github.com/user-attachments/assets/56d3fae8-33d4-49ae-9a11-41c87d58b078)  ![Sentiments](https://github.com/user-attachments/assets/923c036d-7846-4f04-8fb0-f2775c79d550)
+
+
+From the Customer Ratings chart, majority gave 4 star ratings (217) and 3 star ratings (206) (1 being negative and 5 being positive feedback). Only 199 customers gave 5 stars.
+
+This suggests that generally, satisfaction is decent or average, but there’s room for improvement to turn those 3 and 4 star experiences into 5 star ones, and also find out why a considerable number of them (190 and 188) rated 1 and 2 stars.
+
+Suggestions:
+Feedback from customers who rated 1–3 stars needs to be further investigated to identify recurring complaints that may be a result of slow service, low quality products, e.t.c. 
+Loyalty incentives and survey follow-ups for low-rated customers would also be ideal.
+
+The Customer Sentiments indicate that, as much as there seems to be a balance between the three sentiments, the majority of the customers have a Negative experience (344) with the products when compared with those who were Neutral (340) or Positive (316).
+This is tied to the Customer Ratings. The observations and suggestions made earlier on the Customer Ratings will directly affect sentiments positively after implementation.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
