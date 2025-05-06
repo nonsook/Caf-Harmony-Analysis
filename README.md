@@ -73,7 +73,7 @@ Generally, 50% of the employees performed above average, while the other 50% per
 
 Furthermore, filtering with the Employee Location slicer reveals the employee locations performing above or below average. Uptown was the least performing location, with more than half (55%) of employees performing below average.
 
-Observation:
+Observation: 
 All employees who performed below average, especially the bottom 10, suggest that there might be potential issues in their workplace, which might be tied to a lack of motivation, inadequate training, or being overworked.
 
 Suggestion: 
@@ -88,7 +88,7 @@ From the Customer Ratings chart, majority gave 4 star ratings (217) and 3 star r
 
 This suggests that generally, satisfaction is decent or average, but there’s room for improvement to turn those 3 and 4 star experiences into 5 star ones, and also find out why a considerable number of them (190 and 188) rated 1 and 2 stars.
 
-Suggestions:
+Suggestions: 
 Feedback from customers who rated 1–3 stars needs to be further investigated to identify recurring complaints that may be a result of slow service, low quality products, e.t.c. 
 Loyalty incentives and survey follow-ups for low-rated customers would also be ideal.
 
