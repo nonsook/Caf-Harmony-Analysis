@@ -5,7 +5,7 @@ With several branches spread across the city, each location comes with its own p
 ## Business Problem 
 Café Harmony is experiencing rapid growth and now aims to enhance both operational efficiency and customer satisfaction. To achieve this, the company must identify its top-performing menu items across locations, understand the customer segments that generate the highest revenue, optimize stock levels to prevent shortages and overstocking, and evaluate performance at both the location and employee levels.
 
-##Methodology
+## Methodology
 MS Excel was the preffered tool for the client, so I acquired the datasets for the cafe, which were in 5 different sheets namely: 
 Sales Data, 
 Customer Data, 
