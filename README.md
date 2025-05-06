@@ -26,10 +26,21 @@ I applied data wrangling and cleaning techniques on the datasets, which involved
 
 ## Key Findings
 Menu Performance:
+
 ![Product Revenue 1](https://github.com/user-attachments/assets/36e0d7d9-34d5-472e-bf47-f8e5adccc29e)
 
 From the Product Revenue chart for all locations above, the top-selling menu item that generated the most revenue is the Muffin at $2,401. It also doubles as the most preferred item.
-Using the Sales Location slicer on the Dashboard, I was able to deduce that Muffin performed best at Airport ($626) and Uptown ($729), while Iced Tea generated the most revenue at the Suburb ($659) and Downtown ($645). Cappuccino followed closely as the second best in all locations, except for the Suburbs, where it ranked third. 
+Using the Sales Location slicer on the Dashboard, I was able to deduce that Muffin performed best at Airport ($626) and Uptown ($729), while Iced Tea generated the most revenue at the Suburb ($659) and Downtown ($645). Cappuccino followed closely as the second best in all locations, except for the Suburbs, where it ranked third.
+
+Customer Spending:
+
+![Customer Gender Dist](https://github.com/user-attachments/assets/64f70938-a164-4973-a8ad-717218856fee)
+
+- Female customers account for 54% of total sales.
+- Male customers make up the remaining 46%.
+
+
+
 
 ## 
 
