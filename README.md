@@ -18,3 +18,8 @@ Employee Data,
 Feedback Data and 
 Stock Data.
 I applied data wrangling and cleaning techniques on the datasets, which involved removing duplicates and blanks on all sheets, creating a new column for Age group on the Sales Data, re-structuring the data by merging Sales Data with Customer Data because they both had a unique column which was the Customer ID. Then I created Pivot Tables for proper analysis and finally built a dashboard for visualisation and uncovering insights.
+
+Tools
+Excel - Data collection and Data Cleaning
+MySQL - Data Analysis
+Excel - Data Visualization, creating reports and Dashboard.
