@@ -73,10 +73,10 @@ Generally, 50% of the employees performed above average, while the other 50% per
 
 Furthermore, filtering with the Employee Location slicer reveals the employee locations performing above or below average. Uptown was the least performing location, with more than half (55%) of employees performing below average.
 
-### Observation: 
+#### Observation: 
 All employees who performed below average, especially the bottom 10, suggest that there might be potential issues in their workplace, which might be tied to a lack of motivation, inadequate training, or being overworked.
 
-### Suggestion: 
+#### Suggestion: 
 Their work environment, shift, or work hours, and customer feedback linked to them need to be investigated. A survey can also be sent out to them to understand the root cause of their poor performance.
 
 Customer Feedback:
@@ -88,12 +88,30 @@ From the Customer Ratings chart, majority gave 4 star ratings (217) and 3 star r
 
 This suggests that generally, satisfaction is decent or average, but there’s room for improvement to turn those 3 and 4 star experiences into 5 star ones, and also find out why a considerable number of them (190 and 188) rated 1 and 2 stars.
 
-### Suggestions: 
+#### Suggestions: 
 Feedback from customers who rated 1–3 stars needs to be further investigated to identify recurring complaints that may be a result of slow service, low quality products, e.t.c. 
 Loyalty incentives and survey follow-ups for low-rated customers would also be ideal.
 
 The Customer Sentiments indicate that, as much as there seems to be a balance between the three sentiments, the majority of the customers have a Negative experience (344) with the products when compared with those who were Neutral (340) or Positive (316).
 This is tied to the Customer Ratings. The observations and suggestions made earlier on the Customer Ratings will directly affect sentiments positively after implementation.
+
+
+## Trends
+- Muffins or Iced Tea were the 2 top-selling products across the four locations.
+- Cappuccino was constantly in the top 3 products in demand across the four locations.
+- Females accounted for the most revenue than Males in all locations.
+- The age group that generated the most revenue was the Youths (18 – 39).
+- Juice Concentrate was the only stock item that was adequately stocked. Others were either overstocked or understocked.
+- Generally, 50% of the employees performed above average, while the other 50% performed below average. Uptown was the least performing location with 55% below average.
+- The average customer rating was 3, but there were notably a majority number of Negative sentiments in comparison with the other two parameters, Neutral and Positive.
+
+## Business Recommendations
+
+1. In terms of Menu Performance, Café Harmony needs to look into the least performing products especially Sandwich and Latte, that were constantly among the least preferred products. They might be partly responsible for the negative customer sentiments and ratings.
+2. Effective Stock Management should be put in place like effecting the buffer stock approach to ensure that in-demand raw materials are always adequately stocked. Understocking causes inability for the business to meet its product’s demand. This will in turn cause revenue loss and negative feedback from customers who will likely get disappointed with unmet orders. Data-driven metrics should also be used to monitor products generally to avoid overstocking of raw materials that unecessarily tie down resources.
+3. Loyalty Programs or incentives can also be introduced to reward return customers. This improves customer lifetime value (CLV).
+4. Employee Welfare programs should be effected immediately to tackle possible knowledge gaps in customer service, staff motivation, benefits and incentives. This will ensure increased staff productivity which is directly proportional to revenue increase.
+
 
 
 
