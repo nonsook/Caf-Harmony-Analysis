@@ -1,5 +1,10 @@
 # Cafe-Harmony-Analysis
-Analysis on Café Harmony, a vibrant and emerging virtual café chain known for its diverse selection of beverages, snacks, and light meals. Over the past year, the brand has experienced rapid growth and is now navigating the challenges of scaling operations to meet rising customer demand. 
+Analysis on Café Harmony, to detemine the general buisness performance in terms of Sales, Products and Customer Experience.
+![Cafe Harmony](https://github.com/user-attachments/assets/74447316-6ae8-442b-993f-aaffd527a8cb)
+
+
+## Introduction
+Café Harmony is a vibrant and emerging virtual café chain known for its diverse selection of beverages, snacks, and light meals. Over the past year, the brand has experienced rapid growth and is now navigating the challenges of scaling operations to meet rising customer demand. 
 With several branches spread across the city, each location comes with its own performance indicators and distinct customer tastes.
 
 ## Business Problem 
