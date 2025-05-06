@@ -20,7 +20,7 @@ MS Excel was the preferred tool for the client, so I acquired the datasets for t
 
 I applied data wrangling and cleaning techniques on the datasets, which involved removing duplicates and blanks on all sheets, creating a new column for Age group on the Sales Data, re-structuring the data by merging Sales Data with Customer Data because they both had a unique column which was the Customer ID. Then I created Pivot Tables for proper analysis and finally built a dashboard for visualisation and uncovering insights.
 
-                         ## Dashboard
+  ## Dashboard
 ![Cafe Harmony Dash](https://github.com/user-attachments/assets/5d357b56-50c9-46f2-b6f4-3e450ea86b6b)
 
 
